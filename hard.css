@@ -11,6 +11,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image:url("https://www.google.com/search?q=latinoamerica&safe=active&sca_esv=bb7869262e6227ae&sca_upv=1&rlz=1C1CHBD_esCO1097CO1097&udm=2&source=lnt&tbs=isz:l&sa=X&ved=2ahUKEwjgpZjPp9GFAxVvQTABHVZHCF8QpwV6BAgEEAc&biw=1440&bih=783&dpr=1#vhid=1080zR1s-_sEFM&vssid=mosaic.jpg")
 }
 
 .board {
