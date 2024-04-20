@@ -85,7 +85,7 @@ body {
     position: relative;
     transform-style: preserve-3d;
     transition: all 0.8s ease;
-    box-shadow: -3px 5px 5px 3px rgba(0, 0, 0, 0.2);
+    box-shadow: -4px 10px 10px 10px rgba(0, 0, 0, 0.2);
     cursor: pointer;
 }
 
