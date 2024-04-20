@@ -22,6 +22,8 @@ body {
     perspective: 1000px;
     border-radius: 10px;
     box-shadow: -3px 5px 5px 3px rgba(0, 0, 0, 0.363);
+    background-image: url("https://www.adlatina.com/uploads/img/191204030633_Latinoam--rica.jpg");
+    background-size: cover;
 }
 .shake {
     animation: shaking 0.35s ease-in-out;
